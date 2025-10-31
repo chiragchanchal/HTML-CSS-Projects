@@ -83,7 +83,7 @@ Download or clone this repository:
 ✔️ All sections are clearly separated and accessible
 
 bash
-git clone https://github.com/chiragchanchal/portfolio-project.git
+git clone https://github.com/chiragchanchal/HTML-CSS-Projects.git
 Open the folder and double-click on index.html
 ✔️ Skills and Contact Form use table layout
 
